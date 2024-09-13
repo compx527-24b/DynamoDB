@@ -1,0 +1,5 @@
+# DynamoDB Table Structure
+
+- Table Name: VotingUsers
+- Partition Key: UserID (String)
+- Sort Key: CandidateID (String)
